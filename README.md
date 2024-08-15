@@ -1,3 +1,4 @@
-# The Triples Alley Challenge is a collaborative effort between three popular San Francisco races to motivate runners to participate in all events. 
-# The races include: Bay To Breakers, The SF Giants Race, Diplo Run Club. 
+# The Triples Alley Challenge is a collaborative effort between three popular San Francisco races to motivate runners to participate in all events. The races include: Bay To Breakers, The SF Giants Race, Diplo Run Club. 
 # The primary goal of this project was to clean and standardize participant data from each race, identify repeat participants, and create targeted marketing strategies to boost participation across all events.
+# This script matches records across the three race events and identifies repeat participants, segmenting them into three separate lists: signedup for all 3 races (challenge complete), signed up for Bay To Breakers + The SF Giants Race (prospects for Diplo Run Club), and signed up for Bay To Breakers + Diplo Run Club (prospects for The SF Giants Race).
+# The three lists created with this code were used to generate targeted marketing lists for each segment to encourage full participation in all three races.
